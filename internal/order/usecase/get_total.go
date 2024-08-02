@@ -1,7 +1,7 @@
 package usecase
 
 import (
-	"github.com/elieudomaia/concurrency-in-go/internal/order/entity"
+	"github.com/elieudomaia/multithreading-order-service/internal/order/entity"
 )
 
 type GetTotalOutputDto struct {

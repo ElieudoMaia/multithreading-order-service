@@ -1,6 +1,6 @@
 package usecase
 
-import "github.com/elieudomaia/concurrency-in-go/internal/order/entity"
+import "github.com/elieudomaia/multithreading-order-service/internal/order/entity"
 
 type OrderInputDTO struct {
 	ID    string

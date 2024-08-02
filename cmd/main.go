@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/elieudomaia/concurrency-in-go/internal/order/infra/database"
-	"github.com/elieudomaia/concurrency-in-go/internal/order/usecase"
-	"github.com/elieudomaia/concurrency-in-go/pkg/rabbitmq"
+	"github.com/elieudomaia/multithreading-order-service/internal/order/infra/database"
+	"github.com/elieudomaia/multithreading-order-service/internal/order/usecase"
+	"github.com/elieudomaia/multithreading-order-service/pkg/rabbitmq"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 

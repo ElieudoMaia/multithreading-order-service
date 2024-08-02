@@ -1,4 +1,4 @@
-module github.com/elieudomaia/concurrency-in-go
+module github.com/elieudomaia/multithreading-order-service
 
 go 1.20
 

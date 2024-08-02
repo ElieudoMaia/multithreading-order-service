@@ -3,7 +3,7 @@ package entity_test
 import (
 	"testing"
 
-	"github.com/elieudomaia/concurrency-in-go/internal/order/entity"
+	"github.com/elieudomaia/multithreading-order-service/internal/order/entity"
 	"github.com/stretchr/testify/assert"
 )
 

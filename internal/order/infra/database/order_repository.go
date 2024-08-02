@@ -3,7 +3,7 @@ package database
 import (
 	"database/sql"
 
-	"github.com/elieudomaia/concurrency-in-go/internal/order/entity"
+	"github.com/elieudomaia/multithreading-order-service/internal/order/entity"
 	_ "github.com/go-sql-driver/mysql"
 )
 
